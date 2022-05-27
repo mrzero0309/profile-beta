@@ -79,3 +79,6 @@ img{
     border: none;
     transform: unset;
 }
+.social a{
+    text-decoration: none;
+}
